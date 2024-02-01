@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/aacebc29-fedd-45bf-b69e-0cab00df83c4/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/lawrenceium",
+    "appService.deploySubpath": "."
+}
